@@ -1,5 +1,5 @@
 Okra
-Potato
+cucumber
 Cabbage
 Ginger
 Spinach
